@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdoul Fadel Bidiga
-- 👀 I’m interested in DevOps & FullStackDev & 
+- 👀 I’m interested in DevOps & FullStackDev 
 - 📚 Artificial intelligence & AWS
 - 🌱 I’m currently on my way to become a confirmed DevOps
 - 💞️ I’m looking to collaborate on any AI or Web or DevOps projects 
